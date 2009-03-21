@@ -1,0 +1,20 @@
+What's JNChem about?
+--------------------
+
+Java library to interact with the Nature Chemistry website, with the primary goal to extract data from papers, to 
+fulfill to ultimate goal of being able to say:
+
+"Hey, that is an interesting paper! I wonder if their findings match my work last year, or if the measurements 
+contradict what I found! Let's have my computer compare the data!"
+
+(and of goes JNChem to download the data behind the paper and starts some analyses)
+
+What about Project Prospect?
+----------------------------
+
+Yeah, good idea! Should have thought about that myself! Nature Chemistry first; patches welcome.
+
+Further Reading
+---------------
+
+http://chem-bla-ics.blogspot.com/2009/03/nature-chemistry-improves-publishing.html
